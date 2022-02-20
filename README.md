@@ -7,6 +7,9 @@
 ## 📜 Description:
 Developed a robust and beautiful Web App of an Online Book Store. Made the website highly responsive and compatible with various screen sizes. Made use of various frontend libraries to improve the user interface and user experience. Can easily configured to a scalable system.
 
+## 📽 Sample Demo:
+https://user-images.githubusercontent.com/54114888/154840763-716b00e6-9703-45ed-b19d-8dfef23556da.mov
+
 ## 🌎 Deployed Website:
 ### https://bookart.netlify.app/
 
